@@ -41,13 +41,15 @@ p {
   font-style: normal;
 }
 
-/*Image2*/
+/*Image*/
 
 #emma-image {
   width: 300px;
   border-radius: 50%;
   border: 8px solid #92bdb4;
 }
+
+/*Gifts*/
 
 .gift-cover {
   background-image: url("./images/gift.png");
@@ -57,4 +59,8 @@ p {
   margin: auto;
   border: 8px solid #92bdb4;
   border-radius: 6px;
+}
+
+.gift-cover:hover {
+  background-image: url("./images/friends.gif");
 }
