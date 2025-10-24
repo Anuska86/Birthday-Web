@@ -41,10 +41,16 @@ p {
   font-style: normal;
 }
 
-/*Image*/
+/*Image2*/
 
 #emma-image {
   width: 300px;
   border-radius: 50%;
-  border: 8px solid #c3c7be;
+  border: 8px solid #92bdb4;
+}
+
+.gift-cover {
+  width: 400px;
+  border: 8px solid #92bdb4;
+  border-radius: 6px;
 }
