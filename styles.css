@@ -51,7 +51,9 @@ p {
 
 /*Gifts*/
 
-.gift-cover {
+/*1*/
+
+#first-gift-cover {
   background-image: url("./images/gift.png");
   background-size: cover;
   width: 400px;
@@ -61,6 +63,22 @@ p {
   border-radius: 6px;
 }
 
-.gift-cover:hover {
+#first-gift-cover:hover {
   background-image: url("./images/friends.gif");
+}
+
+/*2*/
+
+#second-gift-cover {
+  background-image: url("./images/gift.png");
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  border: 8px solid #92bdb4;
+  border-radius: 6px;
+}
+
+#second-gift-cover:hover {
+  background-image: url("./images/hot.gif");
 }
