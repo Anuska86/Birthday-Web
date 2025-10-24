@@ -54,9 +54,9 @@ p {
 .gift-cover {
   background-image: url("./images/gift.png");
   background-size: cover;
-  width: 400px;
-  height: 400px;
-  margin: auto;
+  width: 438px;
+  height: 438px;
+  margin: 0 auto;
   border: 8px solid #92bdb4;
   border-radius: 6px;
 }
@@ -65,10 +65,30 @@ p {
 
 #first-gift-sorprise:hover {
   background-image: url("./images/friends.gif");
+  background-size: cover;
+  background-position: center;
 }
 
 /*2*/
 
 #second-gift-sorprise:hover {
   background-image: url("./images/hot.gif");
+  background-size: cover;
+  background-position: center;
+}
+
+/*3*/
+
+#third-gift-sorprise:hover {
+  background-image: url("./images/word.gif");
+  background-size: cover;
+  background-position: center;
+}
+
+/*4*/
+
+#fourth-gift-sorprise:hover {
+  background-image: url("./images/one-person.gif");
+  background-size: cover;
+  background-position: center;
 }
