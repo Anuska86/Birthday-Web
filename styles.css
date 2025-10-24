@@ -2,6 +2,7 @@ body {
   background-color: #8f88a1;
   font-family: "Happy Monkey", sans-serif;
   text-align: center;
+  color: #d1c7ca;
 }
 
 /*Fonts*/
@@ -16,4 +17,5 @@ body {
 #emma-image {
   width: 300px;
   border-radius: 50%;
+  border: 8px solid #c3c7be;
 }
