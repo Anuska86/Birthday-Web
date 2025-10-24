@@ -22,7 +22,7 @@ p {
 
 #age {
   background-color: #797375;
-  padding: 8px;
+  padding: 5px 8px;
   border-radius: 6px;
   margin-top: 20px;
   margin-bottom: 5px;
@@ -30,7 +30,7 @@ p {
 
 #date {
   background-color: #797375;
-  padding: 8px;
+  padding: 5px 8px;
   border-radius: 6px;
   margin-top: 5px;
 }
