@@ -1,8 +1,15 @@
 body {
   background-color: #8f88a1;
-  font-family: "Happy Monkey", sans-serif;
+  font-family: "Happy Monkey", cursive, sans-serif;
   text-align: center;
   color: #d1c7ca;
+}
+
+/*Text*/
+h1,
+h2,
+h4 {
+  text-shadow: 2px 2px #575554;
 }
 
 /*Fonts*/
