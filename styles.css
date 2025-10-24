@@ -50,7 +50,11 @@ p {
 }
 
 .gift-cover {
+  background-image: url("./images/gift.png");
+  background-size: cover;
   width: 400px;
+  height: 400px;
+  margin: auto;
   border: 8px solid #92bdb4;
   border-radius: 6px;
 }
