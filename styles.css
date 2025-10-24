@@ -5,10 +5,10 @@ body {
   color: #d1c7ca;
 }
 
-#header{
-display: flex;
-flex-direction: column;
-align-items: center;
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /*Text*/
@@ -20,9 +20,19 @@ p {
   text-shadow: 0 0 2px #575554;
 }
 
-h2,
-h4 {
+#age {
   background-color: #797375;
+  padding: 8px;
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+#date {
+  background-color: #797375;
+  padding: 8px;
+  border-radius: 6px;
+  margin-top: 5px;
 }
 
 /*Fonts*/
