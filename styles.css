@@ -1,5 +1,5 @@
 body {
-  background-color: #8f88a1;
+  background: linear-gradient(#88a199, rgb(182, 146, 152));
   font-family: "Happy Monkey", cursive, sans-serif;
   text-align: center;
   color: #d1c7ca;
@@ -59,6 +59,12 @@ p {
   margin: 0 auto;
   border: 8px solid #92bdb4;
   border-radius: 6px;
+}
+
+.gift-cover:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
 }
 
 /*1*/
