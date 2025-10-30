@@ -92,3 +92,11 @@ p {
   background-size: cover;
   background-position: center;
 }
+
+/*%*/
+
+#fifth-gift-sorprise:hover {
+  background-image: url("./images/Leo.gif");
+  background-size: cover;
+  background-position: center;
+}
