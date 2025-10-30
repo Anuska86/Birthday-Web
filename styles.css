@@ -100,3 +100,15 @@ p {
   background-size: cover;
   background-position: center;
 }
+
+/*Footer*/
+
+#footer {
+  margin-top: 30px;
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  color: #d1c7ca;
+}
